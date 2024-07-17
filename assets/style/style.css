@@ -490,7 +490,7 @@ header {
     width: 315px;
     display: flex;
     flex-direction: column;
-    gap: 40px;
+    gap: 30px;
     border: 1px solid var(--dark-green);
     border-radius: 5px;
     padding: 25px 25px 30px 25px;
@@ -517,6 +517,7 @@ header {
 .comments-content p {
     font-weight: 500;
     color: #4D4B4B;
+    line-height: 23px;
 }
 
 /* FOOTER */
